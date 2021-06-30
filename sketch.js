@@ -1,7 +1,7 @@
 var enemySpeed = 1
 
 function setup() {
-  createCanvas(1000, 1000)
+  createCanvas(900, 900)
 }
 function draw() {
   background(0)
